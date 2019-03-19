@@ -1,0 +1,86 @@
+{
+  "count": 5,
+  "total_funding": 242.9,
+  "startup_list": { "YCombinator": 1, "TechStars": 4 },
+  "companies": [
+    {
+      "name": "Degreed",
+      "original_programming_language": ["c#"],
+      "founded": "2012",
+      "money_raised_so_far": 78.2,
+      "number_of_employees": "101-250",
+      "rank": 12,
+      "current_programming_language": ["c#"],
+      "sources": [
+        "https://jobs.lever.co/degreed/a4dbaabe-82c6-4894-96b9-61e989f59cf0",
+        "https://jobs.lever.co/degreed/96a83e50-1e41-46d5-b8cf-63529924df74",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "GrabCAD",
+      "original_programming_language": ["ruby on rails", "c#", "ruby"],
+      "founded": "2009",
+      "money_raised_so_far": 13.6,
+      "number_of_employees": "11-50",
+      "rank": 26,
+      "current_programming_language": ["ruby on rails/ c#", "ruby"],
+      "sources": [
+        "https://stackshare.io/grabcad/grabcad",
+        "https://careers.stratasys.com/requisition.html?id=26701",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "SendBird",
+      "original_programming_language": ["python", "c#"],
+      "founded": "2013",
+      "money_raised_so_far": 70.7,
+      "number_of_employees": "11-50",
+      "rank": 36,
+      "current_programming_language": ["python/ c#"],
+      "sources": [
+        "https://angel.co/sendbird/jobs/440764-software-engineer-back-end-web-seoul",
+        "https://angel.co/sendbird/jobs/440762-software-engineer-net-unity-seoul",
+        "https://github.com/smilefam?language=python",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Kinvey (bought by Progress)",
+      "original_programming_language": ["java", "swift", "c#"],
+      "founded": "2010",
+      "money_raised_so_far": 17.9,
+      "number_of_employees": "11-50",
+      "rank": 47,
+      "current_programming_language": ["java/ swift/ c#"],
+      "sources": ["https://github.com/Kinvey", "#", "#", "#", "#"],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "ShipBob",
+      "original_programming_language": ["c#"],
+      "founded": "2014",
+      "money_raised_so_far": 62.5,
+      "number_of_employees": "51-100",
+      "rank": 56,
+      "current_programming_language": ["c#"],
+      "sources": [
+        "https://github.com/shipbobDev",
+        "https://goshippo.com/case-studies/shipbob/",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    }
+  ]
+}

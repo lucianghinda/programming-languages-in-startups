@@ -1,0 +1,24 @@
+{
+  "count": 1,
+  "total_funding": 57.0,
+  "startup_list": { "YCombinator": 1, "TechStars": 0 },
+  "companies": [
+    {
+      "name": "Axoni",
+      "original_programming_language": ["scala", "axlang"],
+      "founded": "2013",
+      "money_raised_so_far": 57.0,
+      "number_of_employees": "51-100",
+      "rank": 59,
+      "current_programming_language": ["scala - axlang"],
+      "sources": [
+        "https://www.finextra.com/pressarticle/72882/axoni-unveils-programming-language-for-smart-contracts",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    }
+  ]
+}

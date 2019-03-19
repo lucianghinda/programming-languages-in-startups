@@ -1,0 +1,24 @@
+{
+  "count": 1,
+  "total_funding": 119.6,
+  "startup_list": { "YCombinator": 0, "TechStars": 1 },
+  "companies": [
+    {
+      "name": "Sphero ",
+      "original_programming_language": ["c", "c++"],
+      "founded": "2010",
+      "money_raised_so_far": 119.6,
+      "number_of_employees": "11-50",
+      "rank": 27,
+      "current_programming_language": ["c/ c++"],
+      "sources": [
+        "https://www.linkedin.com/jobs/view/sr-android-software-engineer-app-team-at-sphero-1128908157",
+        "https://www.kidscodecs.com/coding-with-the-sphero-sprk-edition-robot/",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    }
+  ]
+}

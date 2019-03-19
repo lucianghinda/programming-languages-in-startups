@@ -1,0 +1,288 @@
+{
+  "count": 17,
+  "total_funding": 1615.4999999999998,
+  "startup_list": { "YCombinator": 5, "TechStars": 12 },
+  "companies": [
+    {
+      "name": "Remitly",
+      "original_programming_language": ["java"],
+      "founded": "2011",
+      "money_raised_so_far": 200.0,
+      "number_of_employees": "251-500",
+      "rank": 7,
+      "current_programming_language": ["java"],
+      "sources": [
+        "https://www.remitly.com/at/en/careers/1147573",
+        "https://www.remitly.com/us/en/careers/1140617?gh_jid=1140617",
+        "https://ph.linkedin.com/jobs/view/senior-java-developer-at-remitly-686514590",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "ClassPass",
+      "original_programming_language": ["java", "python"],
+      "founded": "2013",
+      "money_raised_so_far": 239.0,
+      "number_of_employees": "101-250",
+      "rank": 8,
+      "current_programming_language": ["java/ python"],
+      "sources": [
+        "https://startup.jobs/177327-backend-engineer-at-classpass",
+        "https://startup.jobs/backend-engineer-at-classpass",
+        "We are transitioning to a microservices based architecture from a single API. Our new architecture uses React and Node for the web, Swift for iOS, and Python and Java on the backend.",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Leanplum",
+      "original_programming_language": ["java"],
+      "founded": "2012",
+      "money_raised_so_far": 98.3,
+      "number_of_employees": "101-250",
+      "rank": 9,
+      "current_programming_language": ["java"],
+      "sources": [
+        "https://www.linkedin.com/jobs/view/senior-product-manager-at-leanplum-1074588496",
+        "Our highly scalable backends are writing in Java.",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "FullContact",
+      "original_programming_language": ["java", "python"],
+      "founded": "2010",
+      "money_raised_so_far": 55.1,
+      "number_of_employees": "251-500",
+      "rank": 13,
+      "current_programming_language": ["java/ python"],
+      "sources": [
+        "https://angel.co/fullcontact/jobs/320895-senior-software-engineer",
+        "https://fullcontact.applytojob.com/apply/jobs/details/hpvtFgqMy4?",
+        "We work with some of the hottest tech on the block: Python, Django, Java, Scala, Clojure, ES6/7, React/Redux, Hadoop, Spark, Storm, Cassandra, Kafka, HBase, ElasticSearch, Redis, RabbitMQ just to name a few.",
+        "https://fullcontact.applytojob.com/apply/jobs/details/HqrxQKRm2l?",
+        "https://angel.co/fullcontact/jobs/330180-senior-devops-engineer-with-sw-eng-background-lead-role-possible"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "LendUp",
+      "original_programming_language": ["java", "python"],
+      "founded": "2011",
+      "money_raised_so_far": 361.5,
+      "number_of_employees": "101-250",
+      "rank": 23,
+      "current_programming_language": ["java/ python"],
+      "sources": [
+        "https://github.com/lendup/",
+        "https://startup.jobs/58073-software-engineer-back-end-at-lendup",
+        "https://clojure.org/stories/lendup",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Amino",
+      "original_programming_language": ["java"],
+      "founded": "2014",
+      "money_raised_so_far": 72.4,
+      "number_of_employees": "51-100",
+      "rank": 24,
+      "current_programming_language": ["java"],
+      "sources": ["https://github.com/AminoApps", "#", "#", "#", "#"],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Bench",
+      "original_programming_language": ["scala", "java", "node.js", "python"],
+      "founded": "2012",
+      "money_raised_so_far": 49.1,
+      "number_of_employees": "101-250",
+      "rank": 28,
+      "current_programming_language": ["scala", "java", "node", "python"],
+      "sources": [
+        "https://news.ycombinator.com/item?id=15153497",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Convey",
+      "original_programming_language": ["java"],
+      "founded": "2013",
+      "money_raised_so_far": 25.0,
+      "number_of_employees": "11-50",
+      "rank": 31,
+      "current_programming_language": ["java"],
+      "sources": [
+        "Java is our language of choice",
+        "https://boards.greenhouse.io/convey/jobs/4214922002",
+        "https://boards.greenhouse.io/convey/jobs/4153846002",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Sift Science",
+      "original_programming_language": ["java"],
+      "founded": "2011",
+      "money_raised_so_far": 106.6,
+      "number_of_employees": "101-250",
+      "rank": 34,
+      "current_programming_language": ["java/ ruby/ python"],
+      "sources": [
+        "https://github.com/SiftScience?utf8=%E2%9C%93",
+        "https://engineering.sift.com/teams/applications-team/",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Algolia",
+      "original_programming_language": ["java"],
+      "founded": "2012",
+      "money_raised_so_far": 74.3,
+      "number_of_employees": "251-500",
+      "rank": 35,
+      "current_programming_language": ["c/c++"],
+      "sources": [
+        "https://blog.algolia.com/need-performance-on-mobile-use-c-cpp/",
+        "https://www.reddit.com/comments/136hny",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Latch",
+      "original_programming_language": ["java"],
+      "founded": "2014",
+      "money_raised_so_far": 96.0,
+      "number_of_employees": "101-250",
+      "rank": 35,
+      "current_programming_language": ["java"],
+      "sources": [
+        "https://angel.co/latch-2/jobs/146564-backend-engineer",
+        "Utilization of back-end programming languages, specifically Java",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Tenfold",
+      "original_programming_language": ["node.js", "java", "scala", "python"],
+      "founded": "2015",
+      "money_raised_so_far": 27.2,
+      "number_of_employees": "101-250",
+      "rank": 37,
+      "current_programming_language": [
+        "node.js/ java",
+        "scala",
+        "and/or python"
+      ],
+      "sources": [
+        "https://www.tenfold.com/careers?gh_jid=1268865",
+        "https://www.tenfold.com/careers?gh_jid=1116977",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Chainalysis",
+      "original_programming_language": ["java"],
+      "founded": "2014",
+      "money_raised_so_far": 47.6,
+      "number_of_employees": "51-100",
+      "rank": 41,
+      "current_programming_language": ["java"],
+      "sources": [
+        "https://angel.co/chainalysis/jobs/440650-sr-software-engineer-java",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Bevi",
+      "original_programming_language": ["java"],
+      "founded": "2013",
+      "money_raised_so_far": 60.1,
+      "number_of_employees": "51-100",
+      "rank": 42,
+      "current_programming_language": ["java"],
+      "sources": [
+        "Our stack includes React.js, Redux, Android, Java and Docker ",
+        "https://angel.co/bevi-1/jobs/278258-full-stack-software-developer",
+        "https://www.glassdoor.com/job-listing/senior-java-backend-engineer-bevi-JV_IC1154532_KO0,28_KE29,33.htm?jl=3144042224",
+        "https://angel.co/bevi-1/jobs/357939-senior-software-developer-android",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Kinvey (bought by Progress)",
+      "original_programming_language": ["java", "swift", "c#"],
+      "founded": "2010",
+      "money_raised_so_far": 17.9,
+      "number_of_employees": "11-50",
+      "rank": 47,
+      "current_programming_language": ["java/ swift/ c#"],
+      "sources": ["https://github.com/Kinvey", "#", "#", "#", "#"],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "SmartAsset",
+      "original_programming_language": ["python", "c++", "java", "php"],
+      "founded": "2012",
+      "money_raised_so_far": 51.4,
+      "number_of_employees": "51-100",
+      "rank": 72,
+      "current_programming_language": ["python", "c++", "java", "php"],
+      "sources": [
+        "https://angel.co/smartasset/jobs/361043-back-end-developer",
+        "https://www.glassdoor.com/Job/new-york-ny-back-end-engineer-jobs-SRCH_IL.0,11_IC1132348_KO12,29.htm?src=GD_JOB_AD&t=EMPLOYER_SEARCH_RESULTS&ao=160631&s=21&rdserp=true&srs=EI_JOBS&jl=2822580117",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Ironclad",
+      "original_programming_language": ["node.js", "java"],
+      "founded": "2014",
+      "money_raised_so_far": 34.0,
+      "number_of_employees": "51-100",
+      "rank": 80,
+      "current_programming_language": ["javascript", "java"],
+      "sources": [
+        "https://jobs.lever.co/ironcladapp/b5bc7044-b22e-48ff-ba8f-53d1d7d09ba4",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    }
+  ]
+}

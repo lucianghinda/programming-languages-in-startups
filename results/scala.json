@@ -1,0 +1,164 @@
+{
+  "count": 9,
+  "total_funding": 456.1,
+  "startup_list": { "YCombinator": 5, "TechStars": 4 },
+  "companies": [
+    {
+      "name": "Localytics",
+      "original_programming_language": ["scala", "python", "go"],
+      "founded": "2009",
+      "money_raised_so_far": 69.8,
+      "number_of_employees": "101-250",
+      "rank": 15,
+      "current_programming_language": ["scala/ python/ go"],
+      "sources": [
+        "https://www.linkedin.com/jobs/view/senior-software-engineer-platform-api-at-localytics-913814533",
+        "https://boards.greenhouse.io/localytics/jobs/1401987",
+        "Our distributed systems are built in Scala/Java and Go using SQS, Docker/ECS, AWS, DynamoDB, RDS, and the Snowflake Cloud Data Warehouse",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Threat Stack",
+      "original_programming_language": ["node.js", "scala", "python", "rust"],
+      "founded": "2012",
+      "money_raised_so_far": 72.3,
+      "number_of_employees": "101-250",
+      "rank": 18,
+      "current_programming_language": ["node.js/ scala/ python/ rust"],
+      "sources": [
+        "https://www.threatstack.com/blog/how-we-integrated-rust-into-threat-stacks-operations-workflow",
+        "Our platform is built in Node.js, Scala, and python",
+        "https://angel.co/threat-stack/jobs/22747-platform-backend-developer",
+        "https://www.threatstack.com/careers/sr-platform-engineer",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Bench",
+      "original_programming_language": ["scala", "java", "node.js", "python"],
+      "founded": "2012",
+      "money_raised_so_far": 49.1,
+      "number_of_employees": "101-250",
+      "rank": 28,
+      "current_programming_language": ["scala", "java", "node", "python"],
+      "sources": [
+        "https://news.ycombinator.com/item?id=15153497",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Tenfold",
+      "original_programming_language": ["node.js", "java", "scala", "python"],
+      "founded": "2015",
+      "money_raised_so_far": 27.2,
+      "number_of_employees": "101-250",
+      "rank": 37,
+      "current_programming_language": [
+        "node.js/ java",
+        "scala",
+        "and/or python"
+      ],
+      "sources": [
+        "https://www.tenfold.com/careers?gh_jid=1268865",
+        "https://www.tenfold.com/careers?gh_jid=1116977",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "MemSQL",
+      "original_programming_language": ["sql", "scala"],
+      "founded": "2011",
+      "money_raised_so_far": 108.1,
+      "number_of_employees": "101-250",
+      "rank": 40,
+      "current_programming_language": ["sql/ scala/ go"],
+      "sources": [
+        "https://www.memsql.com/blog/creator-of-hhvm-joins-memsql/",
+        "https://angel.co/memsql/jobs/432964-software-engineer-backend",
+        "https://www.memsql.com/blog/big-data-scala/",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Axoni",
+      "original_programming_language": ["scala", "axlang"],
+      "founded": "2013",
+      "money_raised_so_far": 57.0,
+      "number_of_employees": "51-100",
+      "rank": 59,
+      "current_programming_language": ["scala - axlang"],
+      "sources": [
+        "https://www.finextra.com/pressarticle/72882/axoni-unveils-programming-language-for-smart-contracts",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Heap",
+      "original_programming_language": ["node.js", "scala"],
+      "founded": "2013",
+      "money_raised_so_far": 40.1,
+      "number_of_employees": "101-250",
+      "rank": 63,
+      "current_programming_language": ["node.js", "scala"],
+      "sources": [
+        "https://heapanalytics.com/careers/job?gh_jid=83721 (Our app-layer stack is TypeScript, React, Node.js, Redis, and PostgreSQL. Under the hood, Heap is powered by node.js, Scala, Spark, ZooKeeper, Kafka, and CitusDB.)",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Firebase",
+      "original_programming_language": ["scala", "node.js"],
+      "founded": "2011",
+      "money_raised_so_far": 7.0,
+      "number_of_employees": "251-500",
+      "rank": 91,
+      "current_programming_language": ["scala", "javascript"],
+      "sources": [
+        "https://www.quora.com/In-what-language-was-Firebase-written",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Second Measure",
+      "original_programming_language": ["python", "scala"],
+      "founded": "2015",
+      "money_raised_so_far": 25.5,
+      "number_of_employees": "51-100",
+      "rank": 96,
+      "current_programming_language": ["python/ scala"],
+      "sources": [
+        "https://angel.co/second-measure/jobs/252370-software-engineer-data",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    }
+  ]
+}

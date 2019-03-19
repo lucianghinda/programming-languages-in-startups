@@ -1,0 +1,58 @@
+{
+  "count": 3,
+  "total_funding": 265.7,
+  "startup_list": { "YCombinator": 3, "TechStars": 0 },
+  "companies": [
+    {
+      "name": "Brex.com",
+      "original_programming_language": ["elixir"],
+      "founded": "2017",
+      "money_raised_so_far": 182.0,
+      "number_of_employees": "51-100",
+      "rank": 16,
+      "current_programming_language": ["elixir"],
+      "sources": [
+        "https://medium.com/brexeng/why-brex-chose-elixir-fe1a4f313195",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "The Athletic",
+      "original_programming_language": ["php", "ruby", "node.js", "elixir"],
+      "founded": "2015",
+      "money_raised_so_far": 67.7,
+      "number_of_employees": "101-250",
+      "rank": 99,
+      "current_programming_language": ["php", "ruby", "node", "elixir"],
+      "sources": [
+        "https://angel.co/the-athletic/jobs/456441-software-engineer-full-stack",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "HelloSign",
+      "original_programming_language": ["php", "elixir"],
+      "founded": "2011",
+      "money_raised_so_far": 16.0,
+      "number_of_employees": "51-100",
+      "rank": 100,
+      "current_programming_language": ["php/ elixir"],
+      "sources": [
+        "https://angel.co/hellosign/jobs/366385-software-engineer-elixir",
+        "https://jobs.lever.co/hellosign/db263c64-7623-4d4a-8fe7-1729bd08675a (Technologies we use most include PHP, Elixir, React JS and MySQL.)",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    }
+  ]
+}

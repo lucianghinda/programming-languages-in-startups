@@ -1,0 +1,239 @@
+{
+  "count": 14,
+  "total_funding": 1316.7,
+  "startup_list": { "YCombinator": 11, "TechStars": 3 },
+  "companies": [
+    {
+      "name": "Machine Zone",
+      "original_programming_language": ["php"],
+      "founded": "2008",
+      "money_raised_so_far": 263.3,
+      "number_of_employees": "501-1000",
+      "rank": 7,
+      "current_programming_language": ["php"],
+      "sources": [
+        "https://stackshare.io/machine-zone/machine-zone",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Placester",
+      "original_programming_language": ["php"],
+      "founded": "2008",
+      "money_raised_so_far": 100.9,
+      "number_of_employees": "101-250",
+      "rank": 11,
+      "current_programming_language": ["php"],
+      "sources": [
+        "https://stackshare.io/placester/placester",
+        "https://support.placester.com/hc/en-us/articles/204512535-The-Placester-Platform-versus-WordPress",
+        "While not a traditional WordPress dashboard, the Placester interface is an overlay on WordPress, meaning the site still has much of the WordPress functionality without exposing the traditional WordPress back end.",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Rappi.com",
+      "original_programming_language": ["php"],
+      "founded": "2015",
+      "money_raised_so_far": 392.0,
+      "number_of_employees": "1001-5000",
+      "rank": 15,
+      "current_programming_language": ["php"],
+      "sources": ["#", "#", "#", "#", "#"],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Distil Networks",
+      "original_programming_language": ["php", "python"],
+      "founded": "2011",
+      "money_raised_so_far": 59.0,
+      "number_of_employees": "101-250",
+      "rank": 16,
+      "current_programming_language": ["php/ python"],
+      "sources": [
+        "https://stackshare.io/distil-networks/distil-networks",
+        "https://www.linkedin.com/in/enginakyol",
+        "https://jobs.lever.co/distilnetworks/e47c7c17-5cc2-4760-8e96-9821846c3e00",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Rigetti Computing",
+      "original_programming_language": ["python", "common lisp", "php"],
+      "founded": "2013",
+      "money_raised_so_far": 119.5,
+      "number_of_employees": "51-100",
+      "rank": 28,
+      "current_programming_language": ["python/ common lisp/ php"],
+      "sources": [
+        "https://github.com/rigetti",
+        "https://en.wikipedia.org/wiki/Quantum_programming",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Pilot ",
+      "original_programming_language": ["php"],
+      "founded": "2014",
+      "money_raised_so_far": 33.1,
+      "number_of_employees": "101-250",
+      "rank": 29,
+      "current_programming_language": ["php"],
+      "sources": [
+        "https://www.garysguide.com/jobs/1qyinfo/Frontend-Engineer-at-Pilot-Fiber-New-York-NY",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "WePay",
+      "original_programming_language": ["php"],
+      "founded": "2008",
+      "money_raised_so_far": 74.2,
+      "number_of_employees": "101-250",
+      "rank": 39,
+      "current_programming_language": ["java / python"],
+      "sources": [
+        "https://wecode.wepay.com/posts/wetools-an-elixir-cli",
+        "https://wecode.wepay.com/posts/how-wepay-mocks-sftp-payment-processor-backends",
+        "https://go.wepay.com/posting/835e8f70-da68-4370-97e7-e84d00fd0b39",
+        "https://techcrunch.com/2010/04/27/php-founder-rasmus-lerdorf-joins-group-payments-startup-wepay/",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Weebly",
+      "original_programming_language": ["php"],
+      "founded": "2007",
+      "money_raised_so_far": 35.7,
+      "number_of_employees": "251-500",
+      "rank": 41,
+      "current_programming_language": ["php"],
+      "sources": [
+        "https://www.quora.com/How-long-did-Weebly-take-to-build-and-what-languages-is-it-built-on",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "MessageBird",
+      "original_programming_language": ["php"],
+      "founded": "2011",
+      "money_raised_so_far": 60.1,
+      "number_of_employees": "101-250",
+      "rank": 45,
+      "current_programming_language": ["php"],
+      "sources": [
+        "https://www.jobfluent.com/jobs/software-engineer-php-amsterdam-41ced5",
+        "https://relocate.me/the-netherlands/amsterdam/messagebird/senior-software-engineer-php-1510 (The application that is at the core of MessageBird is responsible for delivering SMS messages in an optimal way with the level of certainty that our customers expect is built in PHP and contains most of the knowledge of the business.)",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "SmartAsset",
+      "original_programming_language": ["python", "c++", "java", "php"],
+      "founded": "2012",
+      "money_raised_so_far": 51.4,
+      "number_of_employees": "51-100",
+      "rank": 72,
+      "current_programming_language": ["python", "c++", "java", "php"],
+      "sources": [
+        "https://angel.co/smartasset/jobs/361043-back-end-developer",
+        "https://www.glassdoor.com/Job/new-york-ny-back-end-engineer-jobs-SRCH_IL.0,11_IC1132348_KO12,29.htm?src=GD_JOB_AD&t=EMPLOYER_SEARCH_RESULTS&ao=160631&s=21&rdserp=true&srs=EI_JOBS&jl=2822580117",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Razorpay",
+      "original_programming_language": ["php", "python"],
+      "founded": "2013",
+      "money_raised_so_far": 31.6,
+      "number_of_employees": "51-100",
+      "rank": 74,
+      "current_programming_language": ["php/ python"],
+      "sources": [
+        "https://angel.co/razorpay/jobs/80187-senior-backend-developer",
+        "https://angel.co/razorpay/jobs/114438-backend-developer",
+        "https://stackshare.io/razorpay/razorpay",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Functionofbeauty.com",
+      "original_programming_language": ["php"],
+      "founded": "2015",
+      "money_raised_so_far": 12.2,
+      "number_of_employees": "51-100",
+      "rank": 85,
+      "current_programming_language": ["c", "c++", "java", "python", "php"],
+      "sources": [
+        "https://www.functionofbeauty.com/jobs/",
+        "https://angel.co/function-of-beauty-4/jobs/423071-backend-developer",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "The Athletic",
+      "original_programming_language": ["php", "ruby", "node.js", "elixir"],
+      "founded": "2015",
+      "money_raised_so_far": 67.7,
+      "number_of_employees": "101-250",
+      "rank": 99,
+      "current_programming_language": ["php", "ruby", "node", "elixir"],
+      "sources": [
+        "https://angel.co/the-athletic/jobs/456441-software-engineer-full-stack",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "HelloSign",
+      "original_programming_language": ["php", "elixir"],
+      "founded": "2011",
+      "money_raised_so_far": 16.0,
+      "number_of_employees": "51-100",
+      "rank": 100,
+      "current_programming_language": ["php/ elixir"],
+      "sources": [
+        "https://angel.co/hellosign/jobs/366385-software-engineer-elixir",
+        "https://jobs.lever.co/hellosign/db263c64-7623-4d4a-8fe7-1729bd08675a (Technologies we use most include PHP, Elixir, React JS and MySQL.)",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    }
+  ]
+}

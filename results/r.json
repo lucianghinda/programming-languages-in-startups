@@ -1,0 +1,24 @@
+{
+  "count": 1,
+  "total_funding": 224.6,
+  "startup_list": { "YCombinator": 0, "TechStars": 1 },
+  "companies": [
+    {
+      "name": "DataRobot",
+      "original_programming_language": ["python", "r"],
+      "founded": "2012",
+      "money_raised_so_far": 224.6,
+      "number_of_employees": "251-500",
+      "rank": 4,
+      "current_programming_language": ["python/ r"],
+      "sources": [
+        "https://www.builtinboston.com/job/data/machine-learning-engineer-core-modeling/20335",
+        "https://angel.co/datarobot",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    }
+  ]
+}

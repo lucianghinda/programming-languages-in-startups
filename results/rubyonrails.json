@@ -1,0 +1,718 @@
+{
+  "count": 42,
+  "total_funding": 12213.500000000002,
+  "startup_list": { "YCombinator": 27, "TechStars": 15 },
+  "companies": [
+    {
+      "name": "AirBnb",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2008",
+      "money_raised_so_far": 4400.0,
+      "number_of_employees": "1001-5000",
+      "rank": 1,
+      "current_programming_language": ["ruby on rails", "ruby"],
+      "sources": [
+        "https://www.crunchbase.com/organization/airbnb",
+        "https://www.forbes.com/sites/quora/2018/02/20/what-technology-stack-does-airbnb-use/#a1b591b4025c",
+        "https://www.slideshare.net/RohanKhude/technology-stack-behind-airbnb",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "PillPack",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2013",
+      "money_raised_so_far": 117.8,
+      "number_of_employees": "101-250",
+      "rank": 2,
+      "current_programming_language": ["ruby on rails", "ruby"],
+      "sources": [
+        "https://stackshare.io/pillpack/pillpack",
+        "https://www.linkedin.com/jobs/view/software-development-engineer-at-pillpack-1112236525",
+        "https://www.linkedin.com/jobs/view/software-development-engineer-at-pillpack-934428508",
+        "https://www.quora.com/What-are-some-websites-built-with-Ruby-on-Rails",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Plated",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2013",
+      "money_raised_so_far": 117.8,
+      "number_of_employees": "101-250",
+      "rank": 2,
+      "current_programming_language": ["ruby on rails", "ruby"],
+      "sources": [
+        "https://angel.co/plated/jobs/280115-software-engineer",
+        "https://stackshare.io/plated/plated",
+        "https://news.ycombinator.com/item?id=7507870",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "DigitalOcean",
+      "original_programming_language": ["ruby on rails", "go", "ruby"],
+      "founded": "2011",
+      "money_raised_so_far": 305.4,
+      "number_of_employees": "251-500",
+      "rank": 3,
+      "current_programming_language": ["go/ ruby on rails", "ruby"],
+      "sources": [
+        "https://www.digitalocean.com/community/questions/what-language-was-used-to-build-digitalocean",
+        "https://stackshare.io/digitalocean/digitalocean",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Coinbase",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2012",
+      "money_raised_so_far": 546.0,
+      "number_of_employees": "251-500",
+      "rank": 5,
+      "current_programming_language": ["ruby on rails", "ruby"],
+      "sources": [
+        "https://www.quora.com/What-programming-languages-are-used-at-Coinbase",
+        "https://stackshare.io/coinbase/coinbase",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Instacart",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2012",
+      "money_raised_so_far": 1900.0,
+      "number_of_employees": "101-250",
+      "rank": 6,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://www.mobindustry.net/the-technology-behind-instacart/",
+        "https://stackshare.io/posts/the-tech-behind-instacarts-grocery-delivery-service",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Outreach",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2013",
+      "money_raised_so_far": 125.0,
+      "number_of_employees": "251-500",
+      "rank": 6,
+      "current_programming_language": [
+        "ruby on rails (primarily)/ go/ elixir/ node",
+        "ruby"
+      ],
+      "sources": [
+        "https://jobs.lever.co/outreach/ed51d8d3-7470-4161-a9dc-ba1ffcc5967e",
+        "We primarily use Ruby on Rails on the back-end, though there are services written in Go, Node and Elixir.",
+        "https://jobs.lever.co/outreach/6094c836-f83d-4831-8cc6-2bd72258b7d7",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Gusto",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2011",
+      "money_raised_so_far": 316.1,
+      "number_of_employees": "501-1000",
+      "rank": 10,
+      "current_programming_language": ["ruby on rails", "go", "ruby"],
+      "sources": [
+        "https://engineering.gusto.com/a-day-in-the-life/",
+        "https://stackshare.io/gusto/gusto",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "SalesLoft",
+      "original_programming_language": [
+        "ruby on rails",
+        "elixir with phoenix",
+        "ruby"
+      ],
+      "founded": "2011",
+      "money_raised_so_far": 75.7,
+      "number_of_employees": "251-500",
+      "rank": 10,
+      "current_programming_language": [
+        "ruby on rails/ elixir with phoenix",
+        "ruby"
+      ],
+      "sources": [
+        "https://salesloft.com/careers/?gh_jid=1530409",
+        "We develop mostly in Ruby, Elixir and JavaScript, but care more about software engineering concepts than specific language wars.",
+        "https://salesloft.com/careers/?gh_jid=1522429",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "PagerDuty",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2009",
+      "money_raised_so_far": 173.6,
+      "number_of_employees": "251-500",
+      "rank": 12,
+      "current_programming_language": ["elixir"],
+      "sources": [
+        "https://www.pagerduty.com/blog/elixir-at-pagerduty/",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Ginkgo Bioworks",
+      "original_programming_language": ["python", "ruby on rails", "ruby"],
+      "founded": "2009",
+      "money_raised_so_far": 429.1,
+      "number_of_employees": "101-250",
+      "rank": 14,
+      "current_programming_language": ["python/ ruby on rails", "ruby"],
+      "sources": [
+        "https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2019-at-ginkgo-bioworks-inc-1110112614",
+        "https://github.com/ginkgobioworks",
+        "http://www.charlesfracchia.com/assets/files/charlesfracchia_resume.pdf",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "GitLab.com",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2014",
+      "money_raised_so_far": 165.5,
+      "number_of_employees": "251-500",
+      "rank": 17,
+      "current_programming_language": ["ruby on rails", "ruby"],
+      "sources": ["#", "#", "#", "#", "#"],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Twitch",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2007",
+      "money_raised_so_far": 35.0,
+      "number_of_employees": "251-500",
+      "rank": 18,
+      "current_programming_language": ["ruby on rails", "go", "ruby"],
+      "sources": [
+        "https://blog.twitch.tv/twitch-engineering-an-introduction-and-overview-a23917b71a25",
+        "https://www.quora.com/In-which-language-is-Twitch-written",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Flexport",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2013",
+      "money_raised_so_far": 1300.0,
+      "number_of_employees": "501-1000",
+      "rank": 19,
+      "current_programming_language": ["ruby on rails", "ruby"],
+      "sources": [
+        "https://medium.com/@flexportinc/getting-to-know-flexport-engineering-uri-benaya-febd32517366",
+        "https://www.flexport.com/careers/job/1007116",
+        "https://www.linkedin.com/jobs/view/software-engineering-intern-fall-2019-at-flexport-1077181100",
+        "https://stackshare.io/flexport/flexport",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Synack",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2013",
+      "money_raised_so_far": 60.3,
+      "number_of_employees": "101-250",
+      "rank": 19,
+      "current_programming_language": ["ruby on rails", "ruby"],
+      "sources": [
+        "https://www.synack.com/company/careers/1599172/",
+        "https://angel.co/synack/jobs/509013-senior-backend-engineer",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "GoSpotCheck",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2011",
+      "money_raised_so_far": 47.5,
+      "number_of_employees": "11-50",
+      "rank": 25,
+      "current_programming_language": [
+        "ruby on rails (scala",
+        "elixir",
+        "go)",
+        "ruby"
+      ],
+      "sources": [
+        "https://stackoverflow.com/jobs/companies/gospotcheck",
+        "https://github.com/gospotcheck",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "GrabCAD",
+      "original_programming_language": ["ruby on rails", "c#", "ruby"],
+      "founded": "2009",
+      "money_raised_so_far": 13.6,
+      "number_of_employees": "11-50",
+      "rank": 26,
+      "current_programming_language": ["ruby on rails/ c#", "ruby"],
+      "sources": [
+        "https://stackshare.io/grabcad/grabcad",
+        "https://careers.stratasys.com/requisition.html?id=26701",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Podium",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2014",
+      "money_raised_so_far": 926.0,
+      "number_of_employees": "251-500",
+      "rank": 30,
+      "current_programming_language": ["ruby on rails", "elixir", "ruby"],
+      "sources": [
+        "https://www.glassdoor.com/Job/lehi-ut-senior-php-developer-jobs-SRCH_IL.0,7_IC1128238_KO8,28.htm?src=GD_JOB_AD&t=EMPLOYER_SEARCH_RESULTS&ao=517374&s=21&rdserp=true&srs=EI_JOBS&jl=3023777226",
+        "https://hire.withgoogle.com/public/jobs/podiumcom/view/P_AAAAAACAAEnEJjZEeSzrPd",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Cargo",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2016",
+      "money_raised_so_far": 29.4,
+      "number_of_employees": "11-50",
+      "rank": 30,
+      "current_programming_language": ["ruby on rails", "ruby"],
+      "sources": [
+        "https://jobs.lever.co/cargo/6c10d7aa-e7f0-4448-a66d-24f78968e8cd",
+        "the growth of our Rails 5/React/Relay Modern driver, brand and rider focused application",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Cloudability",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2011",
+      "money_raised_so_far": 39.8,
+      "number_of_employees": "101-250",
+      "rank": 34,
+      "current_programming_language": ["ruby on rails", "ruby"],
+      "sources": [
+        "https://github.com/cloudability?utf8=%E2%9C%93&q=&type=&language=",
+        "https://blog.cloudability.com/nasty-little-rails-bug/",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "DataCamp",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2013",
+      "money_raised_so_far": 31.1,
+      "number_of_employees": "11-50",
+      "rank": 39,
+      "current_programming_language": ["ruby on rails", "ruby"],
+      "sources": [
+        "https://angel.co/datacamp/jobs/383437-full-stack-software-engineer-rails-vue-js",
+        "https://boards.greenhouse.io/datacamp/jobs/1479120",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Vidyard",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2011",
+      "money_raised_so_far": 60.7,
+      "number_of_employees": "101-250",
+      "rank": 43,
+      "current_programming_language": ["ruby on rails", "ruby"],
+      "sources": [
+        "https://stackshare.io/match/jobs/vidyard-software-developer",
+        "https://github.com/Vidyard",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "lovepop",
+      "original_programming_language": ["ruby on rails", "python", "ruby"],
+      "founded": "2014",
+      "money_raised_so_far": 21.2,
+      "number_of_employees": "1-10",
+      "rank": 45,
+      "current_programming_language": ["ruby on rails/ python", "ruby"],
+      "sources": [
+        "https://angel.co/lovepop/jobs/300773-principal-ui-engineer",
+        "This has allowed us to use a combination of Ruby on Rails for basic CRUD services/web application logic), Clojure for our customization, design, and render systems where concurrency and latency are the primary considerations and Python for our data/operational concerns. ",
+        "https://venturefizz.com/blog/lovepop-engineering-spotlight-boston-ma",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Heroku",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2007",
+      "money_raised_so_far": 13.0,
+      "number_of_employees": "51-100",
+      "rank": 46,
+      "current_programming_language": ["ruby on rails", "ruby"],
+      "sources": [
+        "https://github.com/heroku",
+        "https://www.quora.com/What-languages-and-frameworks-were-used-to-code-Heroku",
+        "https://techcrunch.com/2008/05/08/ruby-on-rails-startup-heroku-gets-3-million/",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "GOAT",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2015",
+      "money_raised_so_far": 197.6,
+      "number_of_employees": "501-1000",
+      "rank": 47,
+      "current_programming_language": ["ruby on rails", "ruby"],
+      "sources": [
+        "https://github.com/goatapp",
+        "https://jobs.lever.co/goat/ffe5b121-aa9a-447f-92e3-65b601e2419f",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Joany",
+      "original_programming_language": ["python", "ruby on rails", "ruby"],
+      "founded": "2015",
+      "money_raised_so_far": 19.2,
+      "number_of_employees": "51-100",
+      "rank": 48,
+      "current_programming_language": ["python/ ruby on rails", "ruby"],
+      "sources": [
+        "https://www.builtinla.com/2018/06/13/la-startups-hiring-developers-summer-2018",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Skilljar",
+      "original_programming_language": ["python", "ruby on rails", "ruby"],
+      "founded": "2013",
+      "money_raised_so_far": 20.1,
+      "number_of_employees": "11-50",
+      "rank": 49,
+      "current_programming_language": ["python/ ruby on rails", "ruby"],
+      "sources": [
+        "https://angel.co/skilljar/jobs/480498-senior-software-development-engineer",
+        "https://angel.co/skilljar/jobs/480497-software-development-engineer",
+        "https://angel.co/skilljar/jobs/480499-devops-engineer",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "HYP3R",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2015",
+      "money_raised_so_far": 23.8,
+      "number_of_employees": "51-100",
+      "rank": 50,
+      "current_programming_language": ["ruby on rails", "ruby"],
+      "sources": [
+        "https://stackoverflow.com/story/pgonzaga",
+        "https://hired.com/company/hyp3r",
+        "Tech stack: Postgresql, Ruby, Rails, AWS, Opsworks, EC2, S3, SQS, SNS, Redis, Ubuntu, Chef, HAProxy, Nginx, Unicorn, Linux, Ubuntu, Bootstrap, HTML5/CSS3, JS, JQuery, Less, Gulp, Bower, Objective-C , Cocoa Touch, Swift, Xcode, Restkit, CocoaPods, ReactiveCocoa ",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Atrium.co",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2017",
+      "money_raised_so_far": 75.5,
+      "number_of_employees": "110",
+      "rank": 52,
+      "current_programming_language": ["ruby on rails", "ruby"],
+      "sources": ["#", "#", "#", "#", "#"],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Le Tote",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2012",
+      "money_raised_so_far": 62.5,
+      "number_of_employees": "11-50",
+      "rank": 57,
+      "current_programming_language": ["ruby on rails", "elixir", "ruby"],
+      "sources": [
+        "https://github.com/LeToteTeam",
+        "https://stackshare.io/le-tote/le-tote",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Scribd",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2005",
+      "money_raised_so_far": 47.8,
+      "number_of_employees": "101-250",
+      "rank": 60,
+      "current_programming_language": ["ruby on rails", "scala", "go", "ruby"],
+      "sources": [
+        "https://angel.co/scribd/jobs/499812-senior-backend-engineer (we use a wide variety of technologies including Ruby on Rails, Scala, Go, ElasticSearch, Spark/Hadoop, MySQL, Cassandra and Redis)",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "FutureAdvisor",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2010",
+      "money_raised_so_far": 21.5,
+      "number_of_employees": "11-50",
+      "rank": 65,
+      "current_programming_language": ["ruby on rails", "ruby"],
+      "sources": [
+        "https://angel.co/futureadvisor/jobs/136433-fullstack-engineer",
+        "https://github.com/FutureAdvisor",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "RainForest",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2012",
+      "money_raised_so_far": 41.2,
+      "number_of_employees": "51-100",
+      "rank": 71,
+      "current_programming_language": ["ruby on rails", "ruby"],
+      "sources": [
+        "https://jobs.lever.co/rainforest/16babe9d-d9b3-4ba2-8d76-6c85efe9211e",
+        "https://github.com/rainforestapp",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Codecademy",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2011",
+      "money_raised_so_far": 47.5,
+      "number_of_employees": "51-100",
+      "rank": 78,
+      "current_programming_language": ["ruby on rails", "ruby"],
+      "sources": [
+        "https://www.quora.com/What-is-the-technology-stack-behind-Codecademy-How-does-it-process-JavaScript-code-thats-written-by-students",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Caviar",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2012",
+      "money_raised_so_far": 15.0,
+      "number_of_employees": "101-250",
+      "rank": 83,
+      "current_programming_language": ["ruby on rails", "ruby"],
+      "sources": [
+        "https://stackshare.io/caviar/caviar",
+        "https://www.jobilize.com/job/senior-software-engineer-ruby-on-rails-caviar-san-francisco-square",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "HackerRank",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2012",
+      "money_raised_so_far": 58.2,
+      "number_of_employees": "101-250",
+      "rank": 83,
+      "current_programming_language": ["ruby on rails", "ruby"],
+      "sources": [
+        "https://www.quora.com/What-languages-and-frameworks-were-used-to-code-HackerRank",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Goldbelly",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2012",
+      "money_raised_so_far": 33.1,
+      "number_of_employees": "11-50",
+      "rank": 87,
+      "current_programming_language": ["ruby on rails", "ruby"],
+      "sources": [
+        "https://angel.co/goldbelly/jobs/169836-software-engineer",
+        "https://angel.co/goldbelly/jobs/176661-senior-software-engineer",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Buildzoom",
+      "original_programming_language": ["python", "ruby on rails", "ruby"],
+      "founded": "2013",
+      "money_raised_so_far": 23.7,
+      "number_of_employees": "51-100",
+      "rank": 88,
+      "current_programming_language": ["python/ ruby on rails", "ruby"],
+      "sources": [
+        "https://angel.co/buildzoom/jobs/381056-senior-software-engineer-back-end",
+        "https://stackshare.io/buildzoom/buildzoom",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "inDinero",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2009",
+      "money_raised_so_far": 9.9,
+      "number_of_employees": "51-100",
+      "rank": 90,
+      "current_programming_language": ["ruby on rails", "ruby"],
+      "sources": [
+        "https://stackshare.io/indinero/indinero",
+        "https://www.indinero.com/careers-at-indinero?gh_jid=201570",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Genius",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2011",
+      "money_raised_so_far": 72.5,
+      "number_of_employees": "51-100",
+      "rank": 93,
+      "current_programming_language": ["ruby on rails", "ruby"],
+      "sources": ["https://angel.co/genius", "#", "#", "#", "#"],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "ScienceExchange",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2011",
+      "money_raised_so_far": 72.5,
+      "number_of_employees": "51-100",
+      "rank": 93,
+      "current_programming_language": ["ruby on rails", "ruby"],
+      "sources": [
+        "https://angel.co/science-exchange/jobs/447154-senior-full-stack-software-engineer (Our primary application is a classic Ruby on Rails codebase, with a little bit of React.js mixed in. )",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "GoCardless",
+      "original_programming_language": ["ruby on rails", "ruby"],
+      "founded": "2011",
+      "money_raised_so_far": 122.3,
+      "number_of_employees": "101-250",
+      "rank": 101,
+      "current_programming_language": ["ruby on rails", "ruby"],
+      "sources": [
+        "https://github.com/gocardless",
+        "https://www.startus.cc/job/senior-backend-software-engineer-london-uk (We're primarily built in Ruby and JavaScript using Rails)",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    }
+  ]
+}

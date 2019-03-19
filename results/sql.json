@@ -1,0 +1,24 @@
+{
+  "count": 1,
+  "total_funding": 108.1,
+  "startup_list": { "YCombinator": 1, "TechStars": 0 },
+  "companies": [
+    {
+      "name": "MemSQL",
+      "original_programming_language": ["sql", "scala"],
+      "founded": "2011",
+      "money_raised_so_far": 108.1,
+      "number_of_employees": "101-250",
+      "rank": 40,
+      "current_programming_language": ["sql/ scala/ go"],
+      "sources": [
+        "https://www.memsql.com/blog/creator-of-hhvm-joins-memsql/",
+        "https://angel.co/memsql/jobs/432964-software-engineer-backend",
+        "https://www.memsql.com/blog/big-data-scala/",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    }
+  ]
+}

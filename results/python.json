@@ -1,0 +1,971 @@
+{
+  "count": 56,
+  "total_funding": 10931.20000000001,
+  "startup_list": { "YCombinator": 35, "TechStars": 21 },
+  "companies": [
+    {
+      "name": "GetCruise.com",
+      "original_programming_language": ["python"],
+      "founded": "2013",
+      "money_raised_so_far": 3400.0,
+      "number_of_employees": "501-1000",
+      "rank": 3,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://www.linkedin.com/jobs/view/staff-software-engineer-ground-truth-at-cruise-automation-1109489599",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Dropbox",
+      "original_programming_language": ["python"],
+      "founded": "2007",
+      "money_raised_so_far": 1700.0,
+      "number_of_employees": "1001-5000",
+      "rank": 4,
+      "current_programming_language": ["python/ go"],
+      "sources": [
+        "https://www.quora.com/What-programming-languages-are-used-at-Dropbox-product",
+        "https://www.wired.com/2012/12/dropbox-van-rossum/",
+        "https://www.dropboxforum.com/t5/Installation-and-desktop-app/Dropbox-Development-Language/td-p/192136",
+        "https://www.pythonpeople.nl/how-python-powers-dropbox/",
+        "https://blogs.dropbox.com/tech/2014/07/open-sourcing-our-go-libraries/"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "DataRobot",
+      "original_programming_language": ["python", "r"],
+      "founded": "2012",
+      "money_raised_so_far": 224.6,
+      "number_of_employees": "251-500",
+      "rank": 4,
+      "current_programming_language": ["python/ r"],
+      "sources": [
+        "https://www.builtinboston.com/job/data/machine-learning-engineer-core-modeling/20335",
+        "https://angel.co/datarobot",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Zipline",
+      "original_programming_language": ["c++", "python"],
+      "founded": "2011",
+      "money_raised_so_far": 40.6,
+      "number_of_employees": "11-50",
+      "rank": 5,
+      "current_programming_language": ["c++/ python"],
+      "sources": [
+        "https://www.reddit.com/r/IAmA/comments/6ix6nx/we_are_engineers_from_zipline_and_today_we_made/",
+        "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-zipline-international-inc-1151326700",
+        "https://jobs.lever.co/flyzipline/6820694b-dfb8-4961-8a99-4b56e43b1540",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "DoorDash",
+      "original_programming_language": ["python"],
+      "founded": "2013",
+      "money_raised_so_far": 1400.0,
+      "number_of_employees": "251-500",
+      "rank": 8,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://medium.com/@DoorDash/implementing-rest-apis-with-embedded-privacy-a2394dc4dceb",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "ClassPass",
+      "original_programming_language": ["java", "python"],
+      "founded": "2013",
+      "money_raised_so_far": 239.0,
+      "number_of_employees": "101-250",
+      "rank": 8,
+      "current_programming_language": ["java/ python"],
+      "sources": [
+        "https://startup.jobs/177327-backend-engineer-at-classpass",
+        "https://startup.jobs/backend-engineer-at-classpass",
+        "We are transitioning to a microservices based architecture from a single API. Our new architecture uses React and Node for the web, Swift for iOS, and Python and Java on the backend.",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Zenefits",
+      "original_programming_language": ["python with django", "python"],
+      "founded": "2013",
+      "money_raised_so_far": 583.6,
+      "number_of_employees": "501-1000",
+      "rank": 9,
+      "current_programming_language": ["python with django", "python"],
+      "sources": [
+        "https://www.quora.com/What-is-the-software-stack-of-Zenefits",
+        "https://www.hackerrank.com/zenhacks-old/",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "FullContact",
+      "original_programming_language": ["java", "python"],
+      "founded": "2010",
+      "money_raised_so_far": 55.1,
+      "number_of_employees": "251-500",
+      "rank": 13,
+      "current_programming_language": ["java/ python"],
+      "sources": [
+        "https://angel.co/fullcontact/jobs/320895-senior-software-engineer",
+        "https://fullcontact.applytojob.com/apply/jobs/details/hpvtFgqMy4?",
+        "We work with some of the hottest tech on the block: Python, Django, Java, Scala, Clojure, ES6/7, React/Redux, Hadoop, Spark, Storm, Cassandra, Kafka, HBase, ElasticSearch, Redis, RabbitMQ just to name a few.",
+        "https://fullcontact.applytojob.com/apply/jobs/details/HqrxQKRm2l?",
+        "https://angel.co/fullcontact/jobs/330180-senior-devops-engineer-with-sw-eng-background-lead-role-possible"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Ginkgo Bioworks",
+      "original_programming_language": ["python", "ruby on rails", "ruby"],
+      "founded": "2009",
+      "money_raised_so_far": 429.1,
+      "number_of_employees": "101-250",
+      "rank": 14,
+      "current_programming_language": ["python/ ruby on rails", "ruby"],
+      "sources": [
+        "https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2019-at-ginkgo-bioworks-inc-1110112614",
+        "https://github.com/ginkgobioworks",
+        "http://www.charlesfracchia.com/assets/files/charlesfracchia_resume.pdf",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "TradingView",
+      "original_programming_language": [
+        "pine",
+        "node.js",
+        "python with django",
+        "python"
+      ],
+      "founded": "2011",
+      "money_raised_so_far": 40.8,
+      "number_of_employees": "101-250",
+      "rank": 14,
+      "current_programming_language": [
+        "pine/ node.js/ python with django",
+        "python"
+      ],
+      "sources": [
+        "https://www.quora.com/What-framework-is-tradingview-com%E2%80%99s-charting-editor-UI-written-in",
+        "https://www.tradingview.com/blog/en/tradingview-s-pine-script-introduction-203/",
+        "We use Python, Django, JavaScript among other technologies.",
+        "https://angel.co/jobs?slug=tradingview-1",
+        "https://stackshare.io/tradingview/tradingview"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Localytics",
+      "original_programming_language": ["scala", "python", "go"],
+      "founded": "2009",
+      "money_raised_so_far": 69.8,
+      "number_of_employees": "101-250",
+      "rank": 15,
+      "current_programming_language": ["scala/ python/ go"],
+      "sources": [
+        "https://www.linkedin.com/jobs/view/senior-software-engineer-platform-api-at-localytics-913814533",
+        "https://boards.greenhouse.io/localytics/jobs/1401987",
+        "Our distributed systems are built in Scala/Java and Go using SQS, Docker/ECS, AWS, DynamoDB, RDS, and the Snowflake Cloud Data Warehouse",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Distil Networks",
+      "original_programming_language": ["php", "python"],
+      "founded": "2011",
+      "money_raised_so_far": 59.0,
+      "number_of_employees": "101-250",
+      "rank": 16,
+      "current_programming_language": ["php/ python"],
+      "sources": [
+        "https://stackshare.io/distil-networks/distil-networks",
+        "https://www.linkedin.com/in/enginakyol",
+        "https://jobs.lever.co/distilnetworks/e47c7c17-5cc2-4760-8e96-9821846c3e00",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Threat Stack",
+      "original_programming_language": ["node.js", "scala", "python", "rust"],
+      "founded": "2012",
+      "money_raised_so_far": 72.3,
+      "number_of_employees": "101-250",
+      "rank": 18,
+      "current_programming_language": ["node.js/ scala/ python/ rust"],
+      "sources": [
+        "https://www.threatstack.com/blog/how-we-integrated-rust-into-threat-stacks-operations-workflow",
+        "Our platform is built in Node.js, Scala, and python",
+        "https://angel.co/threat-stack/jobs/22747-platform-backend-developer",
+        "https://www.threatstack.com/careers/sr-platform-engineer",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Owlet Baby Care",
+      "original_programming_language": ["python"],
+      "founded": "2013",
+      "money_raised_so_far": 48.0,
+      "number_of_employees": "51-100",
+      "rank": 21,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://www.linkedin.com/jobs/view/senior-platform-engineer-at-owlet-baby-care-1119616965",
+        "https://owletbabycare.applytojob.com/apply/6NY7iQ2oDO/Senior-Platform-Engineer",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Optimizely",
+      "original_programming_language": ["python"],
+      "founded": "2009",
+      "money_raised_so_far": 146.2,
+      "number_of_employees": "251-500",
+      "rank": 22,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://jobs.smartrecruiters.com/Optimizely/743999683701204",
+        "https://github.com/optimizely/",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Realty Mogul",
+      "original_programming_language": ["python"],
+      "founded": "2012",
+      "money_raised_so_far": 45.1,
+      "number_of_employees": "51-100",
+      "rank": 22,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://angel.co/realty-mogul/jobs/246783-full-stack-developer",
+        "https://startupcto.io/job/realtymogul-com-greater-la-area-6-realtymogul-com-full-stack-developer/",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "LendUp",
+      "original_programming_language": ["java", "python"],
+      "founded": "2011",
+      "money_raised_so_far": 361.5,
+      "number_of_employees": "101-250",
+      "rank": 23,
+      "current_programming_language": ["java/ python"],
+      "sources": [
+        "https://github.com/lendup/",
+        "https://startup.jobs/58073-software-engineer-back-end-at-lendup",
+        "https://clojure.org/stories/lendup",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Bluecore",
+      "original_programming_language": ["python"],
+      "founded": "2013",
+      "money_raised_so_far": 63.2,
+      "number_of_employees": "101-250",
+      "rank": 23,
+      "current_programming_language": ["python"],
+      "sources": [
+        "While our stack consists primarily of Python on the backend and React on the frontend, we see technology as a means to solving problems ",
+        "https://jobs.lever.co/bluecore/ae41ddb5-74a7-423a-9a55-6848c4fbef7f",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "uBiome",
+      "original_programming_language": ["python"],
+      "founded": "2012",
+      "money_raised_so_far": 109.9,
+      "number_of_employees": "11-50",
+      "rank": 25,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://pypi.org/project/ubiome/0.5.9/",
+        "https://ubiome.com/blog/post/analyze-ubiome-results-python/",
+        "https://github.com/ubiome-opensource",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Zapier",
+      "original_programming_language": ["python with django", "python"],
+      "founded": "2011",
+      "money_raised_so_far": 1.3,
+      "number_of_employees": "101-250",
+      "rank": 27,
+      "current_programming_language": ["python  with django"],
+      "sources": [
+        "https://zapier.com/engineering/go-no-go/",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Rigetti Computing",
+      "original_programming_language": ["python", "common lisp", "php"],
+      "founded": "2013",
+      "money_raised_so_far": 119.5,
+      "number_of_employees": "51-100",
+      "rank": 28,
+      "current_programming_language": ["python/ common lisp/ php"],
+      "sources": [
+        "https://github.com/rigetti",
+        "https://en.wikipedia.org/wiki/Quantum_programming",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Bench",
+      "original_programming_language": ["scala", "java", "node.js", "python"],
+      "founded": "2012",
+      "money_raised_so_far": 49.1,
+      "number_of_employees": "101-250",
+      "rank": 28,
+      "current_programming_language": ["scala", "java", "node", "python"],
+      "sources": [
+        "https://news.ycombinator.com/item?id=15153497",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Thalmic / currently North",
+      "original_programming_language": ["python"],
+      "founded": "2012",
+      "money_raised_so_far": 159.6,
+      "number_of_employees": "251-500",
+      "rank": 29,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://ca.linkedin.com/jobs/view/software-engineer-back-end-at-thalmic-labs-878727847",
+        "https://developerblog.myo.com/myo-unleashed-python/",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Equipment Share",
+      "original_programming_language": ["python"],
+      "founded": "2014",
+      "money_raised_so_far": 58.7,
+      "number_of_employees": "101-250",
+      "rank": 31,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://www.equipmentshare.com/careers/openings?gh_jid=626992 (On the back end, almost all of our work is in Flask/Python/PostgreSQL.)",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Soylent",
+      "original_programming_language": ["python"],
+      "founded": "2013",
+      "money_raised_so_far": 72.4,
+      "number_of_employees": "11-50",
+      "rank": 32,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://stackshare.io/soylent/how-soylent-ships-a-trillion-calories-per-month",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Kalo",
+      "original_programming_language": ["python"],
+      "founded": "2014",
+      "money_raised_so_far": 25.1,
+      "number_of_employees": "11-50",
+      "rank": 32,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://jobs.lever.co/kalo/a2df194e-779b-46a3-8a3b-1f8d489bb4f8",
+        "Currently, our application is built with Python 3 (Flask) and deployed to multiple Cloud Foundry based deployment environments.",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "PlanGrid",
+      "original_programming_language": ["python", "swift"],
+      "founded": "2011",
+      "money_raised_so_far": 69.1,
+      "number_of_employees": "251-500",
+      "rank": 33,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://jobs.lever.co/plangrid/b348bcc9-2af5-480e-be02-582141cea430",
+        "https://jobs.lever.co/plangrid/847b7d9f-d3d4-4668-8659-bd2e270cde85",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "EasyPost",
+      "original_programming_language": ["python"],
+      "founded": "2012",
+      "money_raised_so_far": 3.5,
+      "number_of_employees": "11-50",
+      "rank": 36,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://angel.co/easypost/jobs/516287-senior-software-engineer",
+        "https://www.calhoun.io/about",
+        "https://github.com/EasyPost",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "SendBird",
+      "original_programming_language": ["python", "c#"],
+      "founded": "2013",
+      "money_raised_so_far": 70.7,
+      "number_of_employees": "11-50",
+      "rank": 36,
+      "current_programming_language": ["python/ c#"],
+      "sources": [
+        "https://angel.co/sendbird/jobs/440764-software-engineer-back-end-web-seoul",
+        "https://angel.co/sendbird/jobs/440762-software-engineer-net-unity-seoul",
+        "https://github.com/smilefam?language=python",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Amplitude",
+      "original_programming_language": ["python", "node.js"],
+      "founded": "2012",
+      "money_raised_so_far": 136.0,
+      "number_of_employees": "101-250",
+      "rank": 37,
+      "current_programming_language": ["python", "javascript"],
+      "sources": [
+        "https://boards.greenhouse.io/amplitude/jobs/4208781002",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Tenfold",
+      "original_programming_language": ["node.js", "java", "scala", "python"],
+      "founded": "2015",
+      "money_raised_so_far": 27.2,
+      "number_of_employees": "101-250",
+      "rank": 37,
+      "current_programming_language": [
+        "node.js/ java",
+        "scala",
+        "and/or python"
+      ],
+      "sources": [
+        "https://www.tenfold.com/careers?gh_jid=1268865",
+        "https://www.tenfold.com/careers?gh_jid=1116977",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "INSPECTORIO",
+      "original_programming_language": ["python"],
+      "founded": "2015",
+      "money_raised_so_far": 13.7,
+      "number_of_employees": "101-250",
+      "rank": 40,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://inspectorio.bamboohr.com/jobs/view.php?id=25",
+        "Technologies we use: Python, Angular 2+, DynamoDB, PostgreSQL, AWS, Flask, Django, Kubernetes, ElasticSearch",
+        "https://inspectorio.bamboohr.com/jobs/view.php?id=79",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Ginger.io",
+      "original_programming_language": ["python"],
+      "founded": "2011",
+      "money_raised_so_far": 28.2,
+      "number_of_employees": "11-50",
+      "rank": 43,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://boards.greenhouse.io/ginger/jobs/1590248",
+        "https://boards.greenhouse.io/ginger/jobs/1542986",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "New Knowledge",
+      "original_programming_language": ["python", "node.js"],
+      "founded": "2015",
+      "money_raised_so_far": 13.0,
+      "number_of_employees": "11-50",
+      "rank": 44,
+      "current_programming_language": ["python/ node.js"],
+      "sources": [
+        "Our team uses a microservices architecture approach with a broad and evolving tech stack; including Python, Node.js, React, Docker, Kubernetes, Selenium etc.",
+        "https://boards.greenhouse.io/newknowledge/jobs/4218864002",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "lovepop",
+      "original_programming_language": ["ruby on rails", "python", "ruby"],
+      "founded": "2014",
+      "money_raised_so_far": 21.2,
+      "number_of_employees": "1-10",
+      "rank": 45,
+      "current_programming_language": ["ruby on rails/ python", "ruby"],
+      "sources": [
+        "https://angel.co/lovepop/jobs/300773-principal-ui-engineer",
+        "This has allowed us to use a combination of Ruby on Rails for basic CRUD services/web application logic), Clojure for our customization, design, and render systems where concurrency and latency are the primary considerations and Python for our data/operational concerns. ",
+        "https://venturefizz.com/blog/lovepop-engineering-spotlight-boston-ma",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Ridecell",
+      "original_programming_language": ["python with django", "python"],
+      "founded": "2009",
+      "money_raised_so_far": 73.8,
+      "number_of_employees": "101-250",
+      "rank": 48,
+      "current_programming_language": ["python  with django"],
+      "sources": [
+        "https://www.linkedin.com/jobs/view/senior-backend-engineer-core-platform-at-ridecell-339725956",
+        "https://github.com/Ridecell?utf8=%E2%9C%93&q=&type=&language=",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Joany",
+      "original_programming_language": ["python", "ruby on rails", "ruby"],
+      "founded": "2015",
+      "money_raised_so_far": 19.2,
+      "number_of_employees": "51-100",
+      "rank": 48,
+      "current_programming_language": ["python/ ruby on rails", "ruby"],
+      "sources": [
+        "https://www.builtinla.com/2018/06/13/la-startups-hiring-developers-summer-2018",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Matterport",
+      "original_programming_language": ["python", "c++"],
+      "founded": "2011",
+      "money_raised_so_far": 114.0,
+      "number_of_employees": "101-250",
+      "rank": 49,
+      "current_programming_language": ["python/ c++"],
+      "sources": [
+        "https://jobs.lever.co/matterport/390e4501-052b-49f8-ab84-09b75b5f103f",
+        "https://github.com/matterport?utf8=%E2%9C%93&q=&type=&language=",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Skilljar",
+      "original_programming_language": ["python", "ruby on rails", "ruby"],
+      "founded": "2013",
+      "money_raised_so_far": 20.1,
+      "number_of_employees": "11-50",
+      "rank": 49,
+      "current_programming_language": ["python/ ruby on rails", "ruby"],
+      "sources": [
+        "https://angel.co/skilljar/jobs/480498-senior-software-development-engineer",
+        "https://angel.co/skilljar/jobs/480497-software-development-engineer",
+        "https://angel.co/skilljar/jobs/480499-devops-engineer",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Fivestars",
+      "original_programming_language": ["python"],
+      "founded": "2011",
+      "money_raised_so_far": 92.7,
+      "number_of_employees": "251-500",
+      "rank": 50,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://startup.jobs/247856-lead-hardware-systems-engineer-at-fivestars",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Rescale",
+      "original_programming_language": ["python"],
+      "founded": "2011",
+      "money_raised_so_far": 52.4,
+      "number_of_employees": "11-50",
+      "rank": 53,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://stackshare.io/rescale/rescale",
+        "https://angel.co/rescale/jobs/237404-software-engineer",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Atomwise",
+      "original_programming_language": ["python"],
+      "founded": "2012",
+      "money_raised_so_far": 51.3,
+      "number_of_employees": "11-50",
+      "rank": 62,
+      "current_programming_language": ["python"],
+      "sources": [
+        "http://www.atomwise.com/jobs/senior-software-engineer/",
+        "http://www.atomwise.com/jobs/senior-machine-learning-research-scientist/",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Boom Supersonic",
+      "original_programming_language": ["python", "go"],
+      "founded": "2014",
+      "money_raised_so_far": 141.0,
+      "number_of_employees": "51-100",
+      "rank": 69,
+      "current_programming_language": ["python/ go"],
+      "sources": [
+        "https://jobs.lever.co/boom/5946cbd5-becb-4de3-a8dd-51ab6b305a60",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Zerocater",
+      "original_programming_language": ["python"],
+      "founded": "2009",
+      "money_raised_so_far": 17.6,
+      "number_of_employees": "101-250",
+      "rank": 70,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://stackshare.io/zerocater/zerocater",
+        "https://zerocater.com/about/careers/?gh_jid=1585908 ( production, we use Django, PostgresSQL, Redis, RabbitMQ on the back-end)",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "SmartAsset",
+      "original_programming_language": ["python", "c++", "java", "php"],
+      "founded": "2012",
+      "money_raised_so_far": 51.4,
+      "number_of_employees": "51-100",
+      "rank": 72,
+      "current_programming_language": ["python", "c++", "java", "php"],
+      "sources": [
+        "https://angel.co/smartasset/jobs/361043-back-end-developer",
+        "https://www.glassdoor.com/Job/new-york-ny-back-end-engineer-jobs-SRCH_IL.0,11_IC1132348_KO12,29.htm?src=GD_JOB_AD&t=EMPLOYER_SEARCH_RESULTS&ao=160631&s=21&rdserp=true&srs=EI_JOBS&jl=2822580117",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Embark",
+      "original_programming_language": ["python"],
+      "founded": "2016",
+      "money_raised_so_far": 47.2,
+      "number_of_employees": "11-50",
+      "rank": 73,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://jobs.lever.co/embark/f2a360b3-ada1-4c79-a220-0a8b267ed89d",
+        "https://hired.com/company/embark-trucks",
+        "https://angel.co/embarktrucks/jobs/224921-software-engineer",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Razorpay",
+      "original_programming_language": ["php", "python"],
+      "founded": "2013",
+      "money_raised_so_far": 31.6,
+      "number_of_employees": "51-100",
+      "rank": 74,
+      "current_programming_language": ["php/ python"],
+      "sources": [
+        "https://angel.co/razorpay/jobs/80187-senior-backend-developer",
+        "https://angel.co/razorpay/jobs/114438-backend-developer",
+        "https://stackshare.io/razorpay/razorpay",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Qventus",
+      "original_programming_language": ["python"],
+      "founded": "2012",
+      "money_raised_so_far": 45.0,
+      "number_of_employees": "11-50",
+      "rank": 75,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://angel.co/qventus/jobs/134829-seniorfull-stack-developer",
+        "https://belitsoft.com/python-development-services/python-healthcare",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Automatic",
+      "original_programming_language": ["python"],
+      "founded": "2011",
+      "money_raised_so_far": 24.0,
+      "number_of_employees": "11-50",
+      "rank": 79,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://recruiting.adp.com/srccar/public/RTI.home?c=1147611&d=ExternalCareerSite&r=5000424837706#/",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "FarmLogs",
+      "original_programming_language": ["python"],
+      "founded": "2012",
+      "money_raised_so_far": 37.0,
+      "number_of_employees": "51-100",
+      "rank": 81,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://twitter.com/farmlogs/status/425655054591213568",
+        "https://stackshare.io/farmlogs/backend-and-infrastructure",
+        "https://github.com/FarmLogs",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Buildzoom",
+      "original_programming_language": ["python", "ruby on rails", "ruby"],
+      "founded": "2013",
+      "money_raised_so_far": 23.7,
+      "number_of_employees": "51-100",
+      "rank": 88,
+      "current_programming_language": ["python/ ruby on rails", "ruby"],
+      "sources": [
+        "https://angel.co/buildzoom/jobs/381056-senior-software-engineer-back-end",
+        "https://stackshare.io/buildzoom/buildzoom",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "People.ai",
+      "original_programming_language": ["python"],
+      "founded": "2016",
+      "money_raised_so_far": 37.0,
+      "number_of_employees": "101-250",
+      "rank": 89,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://angel.co/people-ai/jobs/310858-senior-backend-engineer-ai-ml-enterprise-saas",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Thread",
+      "original_programming_language": ["python"],
+      "founded": "2012",
+      "money_raised_so_far": 40.9,
+      "number_of_employees": "1-10",
+      "rank": 94,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://angel.co/thread/jobs/24661-software-engineer (You’ll work everyday with an awesome technology stack consisting of Python, Django, Git, Debian, Redis, jQuery, Jenkins, PostgreSQL, Gunicorn)",
+        "https://www.thread.com/jobs/software-engineer (Enjoy learning technologies that are new to you. We use Python and Django but you don’t need experience in them.)",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "The Muse",
+      "original_programming_language": ["python"],
+      "founded": "2011",
+      "money_raised_so_far": 28.7,
+      "number_of_employees": "101-250",
+      "rank": 95,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://stackshare.io/the-muse/the-muse",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Second Measure",
+      "original_programming_language": ["python", "scala"],
+      "founded": "2015",
+      "money_raised_so_far": 25.5,
+      "number_of_employees": "51-100",
+      "rank": 96,
+      "current_programming_language": ["python/ scala"],
+      "sources": [
+        "https://angel.co/second-measure/jobs/252370-software-engineer-data",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Scale Labs",
+      "original_programming_language": ["python"],
+      "founded": "2016",
+      "money_raised_so_far": 1.0,
+      "number_of_employees": "11-50",
+      "rank": 97,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://angel.co/thescalelabs/jobs/245236-back-end-developer",
+        "https://angel.co/thescalelabs/jobs/467556-back-end-development-intern",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    }
+  ]
+}

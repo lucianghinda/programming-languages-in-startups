@@ -1,0 +1,24 @@
+{
+  "count": 1,
+  "total_funding": 72.3,
+  "startup_list": { "YCombinator": 0, "TechStars": 1 },
+  "companies": [
+    {
+      "name": "Threat Stack",
+      "original_programming_language": ["node.js", "scala", "python", "rust"],
+      "founded": "2012",
+      "money_raised_so_far": 72.3,
+      "number_of_employees": "101-250",
+      "rank": 18,
+      "current_programming_language": ["node.js/ scala/ python/ rust"],
+      "sources": [
+        "https://www.threatstack.com/blog/how-we-integrated-rust-into-threat-stacks-operations-workflow",
+        "Our platform is built in Node.js, Scala, and python",
+        "https://angel.co/threat-stack/jobs/22747-platform-backend-developer",
+        "https://www.threatstack.com/careers/sr-platform-engineer",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    }
+  ]
+}

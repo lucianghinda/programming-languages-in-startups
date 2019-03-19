@@ -1,0 +1,32 @@
+{
+  "count": 1,
+  "total_funding": 40.8,
+  "startup_list": { "YCombinator": 0, "TechStars": 1 },
+  "companies": [
+    {
+      "name": "TradingView",
+      "original_programming_language": [
+        "pine",
+        "node.js",
+        "python with django",
+        "python"
+      ],
+      "founded": "2011",
+      "money_raised_so_far": 40.8,
+      "number_of_employees": "101-250",
+      "rank": 14,
+      "current_programming_language": [
+        "pine/ node.js/ python with django",
+        "python"
+      ],
+      "sources": [
+        "https://www.quora.com/What-framework-is-tradingview-com%E2%80%99s-charting-editor-UI-written-in",
+        "https://www.tradingview.com/blog/en/tradingview-s-pine-script-introduction-203/",
+        "We use Python, Django, JavaScript among other technologies.",
+        "https://angel.co/jobs?slug=tradingview-1",
+        "https://stackshare.io/tradingview/tradingview"
+      ],
+      "startup_list": "TechStars"
+    }
+  ]
+}

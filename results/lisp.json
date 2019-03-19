@@ -1,0 +1,24 @@
+{
+  "count": 1,
+  "total_funding": 550.1,
+  "startup_list": { "YCombinator": 1, "TechStars": 0 },
+  "companies": [
+    {
+      "name": "Reddit",
+      "original_programming_language": ["lisp"],
+      "founded": "2005",
+      "money_raised_so_far": 550.1,
+      "number_of_employees": "101-250",
+      "rank": 11,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://forums.tomsguide.com/threads/what-computer-language-is-reddit-written-in.350970/",
+        "https://www.quora.com/What-programming-languages-are-used-at-Reddit",
+        "https://github.com/reddit-archive",
+        "https://www.reddit.com/r/programming/comments/13ccbh/reddit_was_originally_written_in_lisp_when_it_was/",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    }
+  ]
+}

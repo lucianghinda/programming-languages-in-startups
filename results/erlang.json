@@ -1,0 +1,58 @@
+{
+  "count": 3,
+  "total_funding": 109.89999999999999,
+  "startup_list": { "YCombinator": 3, "TechStars": 0 },
+  "companies": [
+    {
+      "name": "Mixpanel",
+      "original_programming_language": ["erlang"],
+      "founded": "2009",
+      "money_raised_so_far": 77.0,
+      "number_of_employees": "251-500",
+      "rank": 20,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://engineering.mixpanel.com/2011/08/05/how-and-why-we-switched-from-erlang-to-python/",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "OMGPOP",
+      "original_programming_language": ["ruby", "erlang"],
+      "founded": "2006",
+      "money_raised_so_far": 16.6,
+      "number_of_employees": "251-500",
+      "rank": 58,
+      "current_programming_language": ["ruby", "erlang"],
+      "sources": [
+        "https://www.quora.com/What-programming-language-is-OMGPOP-coded-in",
+        "https://www.quora.com/What-are-the-programming-languages-and-frameworks-the-top-NYC-startups-are-using",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Cloudant",
+      "original_programming_language": ["erlang"],
+      "founded": "2008",
+      "money_raised_so_far": 16.3,
+      "number_of_employees": "51-100",
+      "rank": 76,
+      "current_programming_language": ["erlang"],
+      "sources": [
+        "https://db-engines.com/en/system/Cloudant%3BCouchDB%3BCouchbase",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    }
+  ]
+}

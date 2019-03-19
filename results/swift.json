@@ -1,0 +1,35 @@
+{
+  "count": 2,
+  "total_funding": 87.0,
+  "startup_list": { "YCombinator": 1, "TechStars": 1 },
+  "companies": [
+    {
+      "name": "PlanGrid",
+      "original_programming_language": ["python", "swift"],
+      "founded": "2011",
+      "money_raised_so_far": 69.1,
+      "number_of_employees": "251-500",
+      "rank": 33,
+      "current_programming_language": ["python"],
+      "sources": [
+        "https://jobs.lever.co/plangrid/b348bcc9-2af5-480e-be02-582141cea430",
+        "https://jobs.lever.co/plangrid/847b7d9f-d3d4-4668-8659-bd2e270cde85",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Kinvey (bought by Progress)",
+      "original_programming_language": ["java", "swift", "c#"],
+      "founded": "2010",
+      "money_raised_so_far": 17.9,
+      "number_of_employees": "11-50",
+      "rank": 47,
+      "current_programming_language": ["java/ swift/ c#"],
+      "sources": ["https://github.com/Kinvey", "#", "#", "#", "#"],
+      "startup_list": "TechStars"
+    }
+  ]
+}

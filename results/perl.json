@@ -1,0 +1,24 @@
+{
+  "count": 1,
+  "total_funding": 80.4,
+  "startup_list": { "YCombinator": 0, "TechStars": 1 },
+  "companies": [
+    {
+      "name": "SendGrid",
+      "original_programming_language": ["perl"],
+      "founded": "2009",
+      "money_raised_so_far": 80.4,
+      "number_of_employees": "251-500",
+      "rank": 1,
+      "current_programming_language": ["go"],
+      "sources": [
+        "https://sendgrid.com/blog/convince-company-go-golang/",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    }
+  ]
+}

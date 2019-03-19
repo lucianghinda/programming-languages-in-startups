@@ -1,0 +1,24 @@
+{
+  "count": 1,
+  "total_funding": 119.5,
+  "startup_list": { "YCombinator": 1, "TechStars": 0 },
+  "companies": [
+    {
+      "name": "Rigetti Computing",
+      "original_programming_language": ["python", "common lisp", "php"],
+      "founded": "2013",
+      "money_raised_so_far": 119.5,
+      "number_of_employees": "51-100",
+      "rank": 28,
+      "current_programming_language": ["python/ common lisp/ php"],
+      "sources": [
+        "https://github.com/rigetti",
+        "https://en.wikipedia.org/wiki/Quantum_programming",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    }
+  ]
+}

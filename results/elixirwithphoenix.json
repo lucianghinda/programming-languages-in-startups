@@ -1,0 +1,31 @@
+{
+  "count": 1,
+  "total_funding": 75.7,
+  "startup_list": { "YCombinator": 0, "TechStars": 1 },
+  "companies": [
+    {
+      "name": "SalesLoft",
+      "original_programming_language": [
+        "ruby on rails",
+        "elixir with phoenix",
+        "ruby"
+      ],
+      "founded": "2011",
+      "money_raised_so_far": 75.7,
+      "number_of_employees": "251-500",
+      "rank": 10,
+      "current_programming_language": [
+        "ruby on rails/ elixir with phoenix",
+        "ruby"
+      ],
+      "sources": [
+        "https://salesloft.com/careers/?gh_jid=1530409",
+        "We develop mostly in Ruby, Elixir and JavaScript, but care more about software engineering concepts than specific language wars.",
+        "https://salesloft.com/careers/?gh_jid=1522429",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    }
+  ]
+}

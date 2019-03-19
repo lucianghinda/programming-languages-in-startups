@@ -1,0 +1,301 @@
+{
+  "count": 17,
+  "total_funding": 799.1,
+  "startup_list": { "YCombinator": 11, "TechStars": 6 },
+  "companies": [
+    {
+      "name": "TradingView",
+      "original_programming_language": [
+        "pine",
+        "node.js",
+        "python with django",
+        "python"
+      ],
+      "founded": "2011",
+      "money_raised_so_far": 40.8,
+      "number_of_employees": "101-250",
+      "rank": 14,
+      "current_programming_language": [
+        "pine/ node.js/ python with django",
+        "python"
+      ],
+      "sources": [
+        "https://www.quora.com/What-framework-is-tradingview-com%E2%80%99s-charting-editor-UI-written-in",
+        "https://www.tradingview.com/blog/en/tradingview-s-pine-script-introduction-203/",
+        "We use Python, Django, JavaScript among other technologies.",
+        "https://angel.co/jobs?slug=tradingview-1",
+        "https://stackshare.io/tradingview/tradingview"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Threat Stack",
+      "original_programming_language": ["node.js", "scala", "python", "rust"],
+      "founded": "2012",
+      "money_raised_so_far": 72.3,
+      "number_of_employees": "101-250",
+      "rank": 18,
+      "current_programming_language": ["node.js/ scala/ python/ rust"],
+      "sources": [
+        "https://www.threatstack.com/blog/how-we-integrated-rust-into-threat-stacks-operations-workflow",
+        "Our platform is built in Node.js, Scala, and python",
+        "https://angel.co/threat-stack/jobs/22747-platform-backend-developer",
+        "https://www.threatstack.com/careers/sr-platform-engineer",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Bench",
+      "original_programming_language": ["scala", "java", "node.js", "python"],
+      "founded": "2012",
+      "money_raised_so_far": 49.1,
+      "number_of_employees": "101-250",
+      "rank": 28,
+      "current_programming_language": ["scala", "java", "node", "python"],
+      "sources": [
+        "https://news.ycombinator.com/item?id=15153497",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Amplitude",
+      "original_programming_language": ["python", "node.js"],
+      "founded": "2012",
+      "money_raised_so_far": 136.0,
+      "number_of_employees": "101-250",
+      "rank": 37,
+      "current_programming_language": ["python", "javascript"],
+      "sources": [
+        "https://boards.greenhouse.io/amplitude/jobs/4208781002",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Tenfold",
+      "original_programming_language": ["node.js", "java", "scala", "python"],
+      "founded": "2015",
+      "money_raised_so_far": 27.2,
+      "number_of_employees": "101-250",
+      "rank": 37,
+      "current_programming_language": [
+        "node.js/ java",
+        "scala",
+        "and/or python"
+      ],
+      "sources": [
+        "https://www.tenfold.com/careers?gh_jid=1268865",
+        "https://www.tenfold.com/careers?gh_jid=1116977",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Zagster",
+      "original_programming_language": ["node.js"],
+      "founded": "2007",
+      "money_raised_so_far": 31.1,
+      "number_of_employees": "51-100",
+      "rank": 38,
+      "current_programming_language": ["node.js"],
+      "sources": [
+        "Our tech stack includes mobile apps built in React Native, along with React web apps, supported by a backend implemented with NodeJS and MongoDB.",
+        "https://angel.co/zagster/jobs/437723-sr-software-engineer",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "New Knowledge",
+      "original_programming_language": ["python", "node.js"],
+      "founded": "2015",
+      "money_raised_so_far": 13.0,
+      "number_of_employees": "11-50",
+      "rank": 44,
+      "current_programming_language": ["python/ node.js"],
+      "sources": [
+        "Our team uses a microservices architecture approach with a broad and evolving tech stack; including Python, Node.js, React, Docker, Kubernetes, Selenium etc.",
+        "https://boards.greenhouse.io/newknowledge/jobs/4218864002",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Lever",
+      "original_programming_language": ["node.js"],
+      "founded": "2012",
+      "money_raised_so_far": 72.8,
+      "number_of_employees": "101-250",
+      "rank": 54,
+      "current_programming_language": ["javascript"],
+      "sources": [
+        "https://fulcrum.lever.co/the-lever-tech-stack-1b30e27d2bb0",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Lob",
+      "original_programming_language": ["node.js"],
+      "founded": "2013",
+      "money_raised_so_far": 29.4,
+      "number_of_employees": "51-100",
+      "rank": 61,
+      "current_programming_language": [
+        "javascript",
+        "ruby on rails",
+        "python",
+        "ruby"
+      ],
+      "sources": [
+        "https://lob.com/blog/tech-that-drive-lob",
+        "https://github.com/lob",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Heap",
+      "original_programming_language": ["node.js", "scala"],
+      "founded": "2013",
+      "money_raised_so_far": 40.1,
+      "number_of_employees": "101-250",
+      "rank": 63,
+      "current_programming_language": ["node.js", "scala"],
+      "sources": [
+        "https://heapanalytics.com/careers/job?gh_jid=83721 (Our app-layer stack is TypeScript, React, Node.js, Redis, and PostgreSQL. Under the hood, Heap is powered by node.js, Scala, Spark, ZooKeeper, Kafka, and CitusDB.)",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "BitMovin",
+      "original_programming_language": ["node.js"],
+      "founded": "2013",
+      "money_raised_so_far": 40.5,
+      "number_of_employees": "51-100",
+      "rank": 68,
+      "current_programming_language": ["javascript"],
+      "sources": ["#", "#", "#", "#", "#"],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "GrubMarket",
+      "original_programming_language": ["node.js"],
+      "founded": "2014",
+      "money_raised_so_far": 64.1,
+      "number_of_employees": "51-100",
+      "rank": 77,
+      "current_programming_language": ["javascript", "java"],
+      "sources": ["https://www.grubmarket.com/jobs/eng-1", "#", "#", "#", "#"],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Ironclad",
+      "original_programming_language": ["node.js", "java"],
+      "founded": "2014",
+      "money_raised_so_far": 34.0,
+      "number_of_employees": "51-100",
+      "rank": 80,
+      "current_programming_language": ["javascript", "java"],
+      "sources": [
+        "https://jobs.lever.co/ironcladapp/b5bc7044-b22e-48ff-ba8f-53d1d7d09ba4",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Nurx",
+      "original_programming_language": ["node.js"],
+      "founded": "2014",
+      "money_raised_so_far": 41.4,
+      "number_of_employees": "101-250",
+      "rank": 84,
+      "current_programming_language": ["node.js"],
+      "sources": [
+        "https://angel.co/nurx/jobs/457261-senior-back-end-engineer",
+        "https://stackshare.io/nurx/nurx",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Gigster",
+      "original_programming_language": ["node.js"],
+      "founded": "2013",
+      "money_raised_so_far": 32.6,
+      "number_of_employees": "501-1000",
+      "rank": 86,
+      "current_programming_language": ["node.js"],
+      "sources": [
+        "https://stackshare.io/gigster/gigster",
+        "https://angel.co/gigster/jobs/509651-technical-architect-network",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Firebase",
+      "original_programming_language": ["scala", "node.js"],
+      "founded": "2011",
+      "money_raised_so_far": 7.0,
+      "number_of_employees": "251-500",
+      "rank": 91,
+      "current_programming_language": ["scala", "javascript"],
+      "sources": [
+        "https://www.quora.com/In-what-language-was-Firebase-written",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "The Athletic",
+      "original_programming_language": ["php", "ruby", "node.js", "elixir"],
+      "founded": "2015",
+      "money_raised_so_far": 67.7,
+      "number_of_employees": "101-250",
+      "rank": 99,
+      "current_programming_language": ["php", "ruby", "node", "elixir"],
+      "sources": [
+        "https://angel.co/the-athletic/jobs/456441-software-engineer-full-stack",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    }
+  ]
+}

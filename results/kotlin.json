@@ -1,0 +1,18 @@
+{
+  "count": 1,
+  "total_funding": 116.0,
+  "startup_list": { "YCombinator": 1, "TechStars": 0 },
+  "companies": [
+    {
+      "name": "Faire.com",
+      "original_programming_language": ["kotlin"],
+      "founded": "2017",
+      "money_raised_so_far": 116.0,
+      "number_of_employees": "51-100",
+      "rank": 51,
+      "current_programming_language": ["kotlin"],
+      "sources": ["#", "#", "#", "#", "#"],
+      "startup_list": "YCombinator"
+    }
+  ]
+}

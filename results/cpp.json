@@ -1,0 +1,156 @@
+{
+  "count": 9,
+  "total_funding": 582.4,
+  "startup_list": { "YCombinator": 5, "TechStars": 4 },
+  "companies": [
+    {
+      "name": "Zipline",
+      "original_programming_language": ["c++", "python"],
+      "founded": "2011",
+      "money_raised_so_far": 40.6,
+      "number_of_employees": "11-50",
+      "rank": 5,
+      "current_programming_language": ["c++/ python"],
+      "sources": [
+        "https://www.reddit.com/r/IAmA/comments/6ix6nx/we_are_engineers_from_zipline_and_today_we_made/",
+        "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-zipline-international-inc-1151326700",
+        "https://jobs.lever.co/flyzipline/6820694b-dfb8-4961-8a99-4b56e43b1540",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Occipital ",
+      "original_programming_language": ["c++"],
+      "founded": "2008",
+      "money_raised_so_far": 71.0,
+      "number_of_employees": "11-50",
+      "rank": 20,
+      "current_programming_language": ["c++"],
+      "sources": ["https://occipital.com/jobs", "#", "#", "#", "#"],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Sphero ",
+      "original_programming_language": ["c", "c++"],
+      "founded": "2010",
+      "money_raised_so_far": 119.6,
+      "number_of_employees": "11-50",
+      "rank": 27,
+      "current_programming_language": ["c/ c++"],
+      "sources": [
+        "https://www.linkedin.com/jobs/view/sr-android-software-engineer-app-team-at-sphero-1128908157",
+        "https://www.kidscodecs.com/coding-with-the-sphero-sprk-edition-robot/",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Everledger",
+      "original_programming_language": ["c++", "go"],
+      "founded": "2015",
+      "money_raised_so_far": 10.4,
+      "number_of_employees": "11-50",
+      "rank": 33,
+      "current_programming_language": ["c++/ go"],
+      "sources": [
+        "https://angel.co/everledger/jobs/332205-senior-software-engineer",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Meta",
+      "original_programming_language": ["c++"],
+      "founded": "2012",
+      "money_raised_so_far": 73.0,
+      "number_of_employees": "51-100",
+      "rank": 38,
+      "current_programming_language": ["c++"],
+      "sources": [
+        "https://docs.metavision.com/external/doc/latest/openvr_sdk_landing_page",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Matterport",
+      "original_programming_language": ["python", "c++"],
+      "founded": "2011",
+      "money_raised_so_far": 114.0,
+      "number_of_employees": "101-250",
+      "rank": 49,
+      "current_programming_language": ["python/ c++"],
+      "sources": [
+        "https://jobs.lever.co/matterport/390e4501-052b-49f8-ab84-09b75b5f103f",
+        "https://github.com/matterport?utf8=%E2%9C%93&q=&type=&language=",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Front",
+      "original_programming_language": ["c++"],
+      "founded": "2013",
+      "money_raised_so_far": 79.3,
+      "number_of_employees": "51-100",
+      "rank": 55,
+      "current_programming_language": [
+        "c++ (react for the new front end version)"
+      ],
+      "sources": [
+        "https://github.com/frontapp",
+        "https://frontapp.com/blog/2019/01/05/a-brand-new-app-thousands-of-new-customers/",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "SFOX",
+      "original_programming_language": ["go", "c++"],
+      "founded": "2014",
+      "money_raised_so_far": 23.1,
+      "number_of_employees": "11-50",
+      "rank": 66,
+      "current_programming_language": ["go", "c++"],
+      "sources": [
+        "https://www.sfox.com/jobs.html?gh_jid=4109665002",
+        "https://www.sfox.com/jobs.html?gh_jid=4109664002",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "SmartAsset",
+      "original_programming_language": ["python", "c++", "java", "php"],
+      "founded": "2012",
+      "money_raised_so_far": 51.4,
+      "number_of_employees": "51-100",
+      "rank": 72,
+      "current_programming_language": ["python", "c++", "java", "php"],
+      "sources": [
+        "https://angel.co/smartasset/jobs/361043-back-end-developer",
+        "https://www.glassdoor.com/Job/new-york-ny-back-end-engineer-jobs-SRCH_IL.0,11_IC1132348_KO12,29.htm?src=GD_JOB_AD&t=EMPLOYER_SEARCH_RESULTS&ao=160631&s=21&rdserp=true&srs=EI_JOBS&jl=2822580117",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    }
+  ]
+}

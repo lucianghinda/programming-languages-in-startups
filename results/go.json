@@ -1,0 +1,211 @@
+{
+  "count": 12,
+  "total_funding": 1228.6199999999997,
+  "startup_list": { "YCombinator": 8, "TechStars": 4 },
+  "companies": [
+    {
+      "name": "DigitalOcean",
+      "original_programming_language": ["ruby on rails", "go", "ruby"],
+      "founded": "2011",
+      "money_raised_so_far": 305.4,
+      "number_of_employees": "251-500",
+      "rank": 3,
+      "current_programming_language": ["go/ ruby on rails", "ruby"],
+      "sources": [
+        "https://www.digitalocean.com/community/questions/what-language-was-used-to-build-digitalocean",
+        "https://stackshare.io/digitalocean/digitalocean",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Docker",
+      "original_programming_language": ["go"],
+      "founded": "2010",
+      "money_raised_so_far": 272.9,
+      "number_of_employees": "101-250",
+      "rank": 13,
+      "current_programming_language": ["go"],
+      "sources": [
+        "https://thenewstack.io/go-programming-language-helps-docker-container-ecosystem/",
+        "https://www.quora.com/Why-was-Docker-written-in-Go",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Localytics",
+      "original_programming_language": ["scala", "python", "go"],
+      "founded": "2009",
+      "money_raised_so_far": 69.8,
+      "number_of_employees": "101-250",
+      "rank": 15,
+      "current_programming_language": ["scala/ python/ go"],
+      "sources": [
+        "https://www.linkedin.com/jobs/view/senior-software-engineer-platform-api-at-localytics-913814533",
+        "https://boards.greenhouse.io/localytics/jobs/1401987",
+        "Our distributed systems are built in Scala/Java and Go using SQS, Docker/ECS, AWS, DynamoDB, RDS, and the Snowflake Cloud Data Warehouse",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Segment",
+      "original_programming_language": ["go"],
+      "founded": "2011",
+      "money_raised_so_far": 108.7,
+      "number_of_employees": "251-500",
+      "rank": 24,
+      "current_programming_language": ["go"],
+      "sources": [
+        "https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/",
+        "https://segment.com/jobs/1534132-Software-Engineer-Distributed-Systems/",
+        "https://github.com/segmentio",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Memebox",
+      "original_programming_language": ["go"],
+      "founded": "2012",
+      "money_raised_so_far": 191.7,
+      "number_of_employees": "251-500",
+      "rank": 26,
+      "current_programming_language": ["go/ python"],
+      "sources": [
+        "https://stackshare.io/memebox/memebox",
+        "https://angel.co/memebox/jobs/258437-senior-backend-engineer",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Everledger",
+      "original_programming_language": ["c++", "go"],
+      "founded": "2015",
+      "money_raised_so_far": 10.4,
+      "number_of_employees": "11-50",
+      "rank": 33,
+      "current_programming_language": ["c++/ go"],
+      "sources": [
+        "https://angel.co/everledger/jobs/332205-senior-software-engineer",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "CoreOS",
+      "original_programming_language": ["go"],
+      "founded": "2013",
+      "money_raised_so_far": 48.1,
+      "number_of_employees": "51-100",
+      "rank": 42,
+      "current_programming_language": ["go"],
+      "sources": [
+        "https://blog.gopheracademy.com/birthday-bash-2014/go-at-coreos/",
+        "https://www.youtube.com/watch?v=UNulSprd2Ng",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Clever",
+      "original_programming_language": ["go"],
+      "founded": "2012",
+      "money_raised_so_far": 43.3,
+      "number_of_employees": "101-250",
+      "rank": 44,
+      "current_programming_language": ["go"],
+      "sources": [
+        "https://clever.com/about/jobs/software-engineer-1#gh_jid=1560413 (Currently we write frontend code in Node.js, TypeScript, and React with Redux and use Go for backend)",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Timehop",
+      "original_programming_language": ["go"],
+      "founded": "2010",
+      "money_raised_so_far": 14.1,
+      "number_of_employees": "11-50",
+      "rank": 46,
+      "current_programming_language": ["go"],
+      "sources": [
+        "https://jobs.lever.co/timehop/f9c1dcdd-a1a5-465f-9222-7312cf14f767",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "TechStars"
+    },
+    {
+      "name": "Hush",
+      "original_programming_language": ["go"],
+      "founded": "2016",
+      "money_raised_so_far": 0.12,
+      "number_of_employees": "1-10",
+      "rank": 64,
+      "current_programming_language": ["go"],
+      "sources": [
+        "https://angel.co/hush-10/jobs/409613-senior-software-engineer-core-services",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "SFOX",
+      "original_programming_language": ["go", "c++"],
+      "founded": "2014",
+      "money_raised_so_far": 23.1,
+      "number_of_employees": "11-50",
+      "rank": 66,
+      "current_programming_language": ["go", "c++"],
+      "sources": [
+        "https://www.sfox.com/jobs.html?gh_jid=4109665002",
+        "https://www.sfox.com/jobs.html?gh_jid=4109664002",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    },
+    {
+      "name": "Boom Supersonic",
+      "original_programming_language": ["python", "go"],
+      "founded": "2014",
+      "money_raised_so_far": 141.0,
+      "number_of_employees": "51-100",
+      "rank": 69,
+      "current_programming_language": ["python/ go"],
+      "sources": [
+        "https://jobs.lever.co/boom/5946cbd5-becb-4de3-a8dd-51ab6b305a60",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "startup_list": "YCombinator"
+    }
+  ]
+}
