@@ -19,7 +19,7 @@ Where this information was missing we tried to infer it from job posts and other
 
 # Thank you
 
-A special thanks to Adina Tudor who helped me with this research and did the initial work about the lists.
+A special thanks to [Adina Tudor](https://github.com/adinatudor) who helped me with this research and did the initial work about the lists.
 
 # How to contribute to this
 
